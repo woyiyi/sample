@@ -5849,4 +5849,9 @@ p {
   #logo:hover {
     color: #fff; }
 
+#logout {
+  cursor: default; }
+  #logout:hover {
+    background-color: transparent; }
+
 /*# sourceMappingURL=app.css.map */
